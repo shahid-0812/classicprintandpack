@@ -1,0 +1,84 @@
+[
+    {
+        "id": "1",
+        "heading": "Food & Bevarages",
+        "info": "We offer customized packaging solutions for food and beverages that are flexible and ensure hygiene, safety as well as a waste reduction. there are many strict laws and protocols to be followed when it comes to the packaging of food and beverages. we keep up to date with the changing food packaging manufacturing protocols and offer solutions accordingly. we provide packaging for :",
+        "list": [
+            "Namkeen",
+            "Chocolates",
+            "Dairy Products",
+            "Ice Creams, creams",
+            "Spices, spices powders",
+            "Flour, Grains, Rice, Pulses",
+            "Dry fruits",
+            "Bakery products like toast, khari, breads, biscuits",
+            "All types of chutney and paste, ketchups, pickles, sweets",
+            "Frozen and sea foods",
+            "Papad & mathiyas",
+            "Tea & Coffee"
+        ],
+        "images": [
+            "public/image/service/img1.png",
+            "public/image/service/img2.png",
+            "public/image/service/img3.png"
+        ],
+        "bgcolor": "#54b9fd"
+    },
+    {
+        "id": "2",
+        "heading": "Household and FMCG Products",
+        "info": "we offer customized packaging solutions for food and beverages that are flexible and ensure hygiene, safety as well as a waste reduction. there are many strict laws and protocols to be followed when it comes to the packaging of food and beverages. we keep up to date with the changing food packaging manufacturing protocols and offer solutions accordingly. we provide packaging for :",
+        "list": [
+            "Detergent powders",
+            "Perfumery and Incense stick forms",
+            "Shampoos and Refill packs",
+            "Mahendi forms",
+            "Soaps and Bars",
+            "Cosmetics and more"
+        ],
+        "images": [
+            "public/image/service/img1.png",
+            "public/image/service/img2.png",
+            "public/image/service/img3.png"
+        ],
+        "bgcolor": "#fd4682"
+    },
+    {
+        "id": "3",
+        "heading": "Household and FMCG Products",
+        "info": "we offer customized packaging solutions for food and beverages that are flexible and ensure hygiene, safety as well as a waste reduction. there are many strict laws and protocols to be followed when it comes to the packaging of food and beverages. we keep up to date with the changing food packaging manufacturing protocols and offer solutions accordingly. we provide packaging for :",
+        "list": [
+            "Detergent powders",
+            "Perfumery and Incense stick forms",
+            "Shampoos and Refill packs",
+            "Mahendi forms",
+            "Soaps and Bars",
+            "Cosmetics and more"
+        ],
+        "images": [
+            "public/image/service/img1.png",
+            "public/image/service/img2.png",
+            "public/image/service/img3.png"
+        ],
+        "bgcolor": "#fde642"
+    },
+    {
+        "id": "3",
+        "heading": "Household and FMCG Products",
+        "info": "we offer customized packaging solutions for food and beverages that are flexible and ensure hygiene, safety as well as a waste reduction. there are many strict laws and protocols to be followed when it comes to the packaging of food and beverages. we keep up to date with the changing food packaging manufacturing protocols and offer solutions accordingly. we provide packaging for :",
+        "list": [
+            "Detergent powders",
+            "Perfumery and Incense stick forms",
+            "Shampoos and Refill packs",
+            "Mahendi forms",
+            "Soaps and Bars",
+            "Cosmetics and more"
+        ],
+        "images": [
+            "public/image/service/img1.png",
+            "public/image/service/img2.png",
+            "public/image/service/img3.png"
+        ],
+        "bgcolor": "#1a181d"
+    }
+]

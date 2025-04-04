@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "techHeading": "PRINTING",
+        "techInfo": "Heavy quality Solvent less Imported machine to laminate multilayer jobs, like polyester, metalized polyester, Aluminium foil, LDPE, BOPP, CPP. Specially used for Food Grade jobs to keep material odor less.",
+        "box1": "1 DOCTORING MACHINES",
+        "box2": "SPEED: 350 METER/MINUTES",
+        "box3": "WIDTH: 1000MM",
+        "img": "public/image/gravure-1-1.jpg"
+    },
+    {
+        "id": "2",
+        "techHeading": "LAMINATION & COATING",
+        "techInfo": "Heavy quality Solvent less Imported machine to laminate multilayer jobs, like polyester, metalized polyester, Aluminium foil, LDPE, BOPP, CPP. Specially used for Food Grade jobs to keep material odor less.",
+        "box1": "1 DOCTORING MACHINES",
+        "box2": "SPEED: 350 METER/MINUTES",
+        "box3": "WIDTH: 1000MM",
+        "img": "public/image/gravure-1-1.jpg"
+    },
+    {
+        "id": "3",
+        "techHeading": "SLITING",
+        "techInfo": "To scan and remove misprinted printing material and to give accuracy to serve error less print.heavy quality Solvent less Imported machine to laminate multilayer jobs, like polyester, metalized polyester, Aluminium foil, LDPE, BOPP, CPP. Specially used for Food Grade jobs to keep material odor less.",
+        "box1": "1 DOCTORING MACHINES",
+        "box2": "SPEED: 350 METER/MINUTES",
+        "box3": "WIDTH: 1000MM",
+        "img": "public/image/gravure-1-1.jpg"
+    },
+    {
+        "id": "4",
+        "techHeading": "POUCHING",
+        "techInfo": "To scan and remove misprinted printing material and to give accuracy to serve error less print.heavy quality Solvent less Imported machine to laminate multilayer jobs, like polyester, metalized polyester, Aluminium foil, LDPE, BOPP, CPP. Specially used for Food Grade jobs to keep material odor less.",
+        "box1": "1 DOCTORING MACHINES",
+        "box2": "SPEED: 350 METER/MINUTES",
+        "box3": "WIDTH: 1000MM",
+        "img": "public/image/gravure-1-1.jpg"
+    }
+]

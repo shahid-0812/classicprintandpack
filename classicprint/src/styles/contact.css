@@ -1,0 +1,156 @@
+@font-face {
+    font-family: 'heading';
+    src: url('../assets/fonts/Poppins/Poppins-Medium.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'sub-heading';
+    src: url('../assets/fonts/Poppins/Poppins-Light.ttf') format('truetype');
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    position: relative;
+    height: 100vh;
+    margin: 0;
+}
+
+.contact-form {
+    display: flex;
+    height: auto;
+    width: 100%;
+    padding: 3rem 5rem;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.contact-details {
+    background-color: rgb(255, 255, 255);
+    height: 28em;
+    width: 40rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0rem 5rem;
+    justify-content: center;
+    color: #072642;
+    border: 10px solid #1e415f;
+    border-right: none;
+}
+
+.contact-details h1 {
+    font-family: "heading";
+    font-size: 2.5rem;
+}
+
+.detail-1 {
+    width: auto;
+    height: auto;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    align-self: baseline;
+    gap: 1rem;
+    margin: 1rem 0rem;
+}
+
+.detail-1 p {
+    font-family: "sub-heading";
+}
+
+.form {
+    height: 45rem;
+    width: 40rem;
+    flex-wrap: wrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    /* border-radius: 1rem; */
+    /* border: 2px solid #54b9fd; */
+    gap: 2rem;
+    background-color: #1e415f;
+}
+
+.form h1 {
+    font-family: "heading";
+    font-size: 4rem;
+    color: #ffffff;
+}
+
+
+.input {
+    height: 3rem;
+    width: 25rem;
+    padding: 1rem;
+    font-family: "sub-heading";
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    transition: .2s ease;
+    color: white;
+
+
+}
+
+.input:focus {
+    box-shadow: 5px 5px 0px .1px #E0E7FF;
+    outline: none;
+}
+
+.form textarea:focus {
+    box-shadow: 5px 5px 0px .1px #E0E7FF;
+    outline: none;
+}
+
+.input::placeholder,
+textarea::placeholder {
+    color: black;
+    opacity: .5;
+    /* font-weight: bolder; */
+}
+
+.btn {
+    height: 2.5rem;
+    width: 10rem;
+    font-family: "heading";
+    background-color: #ffffff;
+    border: none;
+    border-radius: 20px;
+    color: #072642;
+    cursor: pointer;
+    transition: .3s ease-in;
+}
+
+
+
+.form textarea {
+    color: white;
+    width: 25rem;
+    height: 8rem;
+    padding: 1rem;
+    font-family: "sub-heading";
+    background-color: #ffffff;
+    border: none;
+    border-radius: 10px;
+    resize: none;
+    transition: .2s ease;
+}
+.google-maps {
+    width: 100%;
+    height: 450px;
+}
+.btn:hover{
+    background-color: #E0E7FF;   
+    transform: scale(1.1);
+}
+.btn:active{
+    background-color: #E0E7FF;   
+    transform: scale(0.9);
+}
