@@ -37,11 +37,12 @@ body {
     display: flex;
     overflow: hidden;
     width: 100%;
+    /* height: 52rem; */
 }
 
 .heading-img {
     width: 1920px;
-    height: 560px;
+    height: 830px;
 }
 
 .service-menu {
@@ -238,8 +239,7 @@ body {
 
 @media (max-width: 768px) {
     .main-content {
-        height: 120px;
-
+        height: 10rem;
     }
 
     .img-container {
@@ -248,7 +248,7 @@ body {
     }
 
     .heading-img {
-        height: 10rem;
+        height:11rem;
         background-size: cover;
         background-position: center;
     }
@@ -301,9 +301,11 @@ body {
     .content-2 h1 {
         font-size: 1.5rem;
     }
-.inquiry-cards{
-    margin: 1rem 0;
-}
+
+    .inquiry-cards {
+        margin: 1rem 0;
+    }
+
     .inquiry-1 {
         height: 8rem;
     }

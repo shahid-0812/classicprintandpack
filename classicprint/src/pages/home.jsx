@@ -1,33 +1,15 @@
-import { useState } from "react";
 import "../styles/home.css"
 import { motion } from "framer-motion";
 
 function Home() {
-   // // // // // let box = document.querySelector(".img-container");
-   // // // // // const btnpressprev = () => {
-   // // // // //    let width = box.clientWidth;
-   // // // // //    box.scrollLeft = box.scrollLeft - width;
-   // // // // //    console.log(width);
-   // // // // // }
-   // // // // // const btnpressnext = () => {
-   // // // // //    let width = box.clientWidth;
-   // // // // //    box.scrollLeft = box.scrollLeft + width;
-   // // // // //    console.log(width);
-
-   // // // // // }
+ 
    return (
 
       <>
          <div className="main-content">
-            {/* <button className="pre-btn" onClick={btnpressprev}><i className="bi bi-arrow-left"></i></button>
-               <button className="next-btn" onClick={btnpressnext}><i className="bi bi-arrow-right"></i></button> */}
             <div className="img-container">
-               <img src="/image/banner-2.jpg" alt="" className="heading-img" />
-
-
-
+               <img src="/image/banner1-2.jpg" alt="" className="heading-img" />
             </div>
-
          </div>
          <motion.div
             initial={{ opacity: 0 }}
