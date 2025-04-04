@@ -4,19 +4,12 @@
     box-sizing: border-box;
 }
 
-
-
 .service-content {
     position: relative;
     width: 100%;
     height: 300px;
     background-image: url("public/image/service.jpg");
     background-size: cover;
-
-
-    /* background-color: red;
-    height: auto;
-    width: auto; */
     padding: 5rem;
     text-align: center;
     display: flex;
@@ -64,18 +57,19 @@
 
 
 
-/* .column-content {
-    /* background-color: yellow; 
-    /* border: 8px solid #54b9fd; 
-    border-radius: 20px;
-    width: calc(100% - 40rem);
-    /* margin: 5rem 10rem; 
-    height: 40rem;
-    /* box-shadow: 5px 5px 5px 0.00001px #069bff; 
-} */
 
-@media only screen and (max-width: 600px) {
+@media (max-width: 768px) {
+    .service-content {
+        height: 200px;
+        padding: 2rem;
+    }
+
+    .service-content h1 {
+        font-size: 2rem;
+    }
+
     .columns {
-        background-color: black;
+        padding: 2rem;
+        gap: 3rem;
     }
 }
